@@ -3,9 +3,11 @@
 The app allows you to track multiple devices and ask for help from trusted contacts.
 
 <p>
- <img src="https://github.com/dakshgodara2001/AlarmApp/blob/master/images/Screenshot_20230202_015323.png" width="250" style="margin: 0 20px;">
- <img src="https://github.com/dakshgodara2001/AlarmApp/blob/master/images/Screenshot_20230202_015218.png" width="250" style="margin: 0 20px;">
- <img src="https://github.com/dakshgodara2001/AlarmApp/blob/master/images/Screenshot_20230202_015352.png" width="250" style="margin: 0 20px;"> 
+ <img src="https://github.com/dakshgodara2001/Find-My-Phone/blob/main/images/Screenshot_20230204_111648.png" width="250" style="margin: 0 20px;">
+ <img src="https://github.com/dakshgodara2001/Find-My-Phone/blob/main/images/Screenshot_20230204_111723.png" width="250" style="margin: 0 20px;">
+ <img src="https://github.com/dakshgodara2001/Find-My-Phone/blob/main/images/Screenshot_20230204_113930.png" width="250" style="margin: 0 20px;">
+ <img src="https://github.com/dakshgodara2001/Find-My-Phone/blob/main/images/Screenshot_20230204_113638.png" width="250" style="margin: 0 20px;"> 
+ <img src="https://github.com/dakshgodara2001/Find-My-Phone/blob/main/images/Screenshot_20230204_114943.png" width="250" style="margin: 0 20px;">
 </p>
 
 ## Features
@@ -18,6 +20,11 @@ The app allows you to track multiple devices and ask for help from trusted conta
 - Run the app on an emulator or physical device.
 - Make sure your device is set to allow installation.
 - Launch the app and grant it required permission access.
+
+<p>
+ <img src="https://github.com/dakshgodara2001/Find-My-Phone/blob/main/images/Screenshot_20230204_111806.png" width="250" style="margin: 0 20px;">
+ <img src="https://github.com/dakshgodara2001/Find-My-Phone/blob/main/images/Screenshot_20230204_111825.png" width="250" style="margin: 0 20px;">
+</p>
 
 ## Built With
 - [Kotlin](https://kotlinlang.org/) - The programming language used
