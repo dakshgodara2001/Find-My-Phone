@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900907749473",
+    "project_id": "find-my-phone-65240",
+    "storage_bucket": "find-my-phone-65240.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900907749473:android:cdbdc5c60fc31334aa1a20",
+        "android_client_info": {
+          "package_name": "com.bydaksh.findmyphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900907749473-71bcb6cr5kcu7lbgn7kq89ti9kp9n7q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTzBVmcu8upkXwhH4N57qbiUo58STj2Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900907749473-71bcb6cr5kcu7lbgn7kq89ti9kp9n7q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
