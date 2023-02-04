@@ -2,7 +2,7 @@
 "Find My Phone" is an app that allows you to locate your lost or stolen device. It utilizes GPS and internet connectivity to accurately track and display the location of your device on a map.
 The app allows you to track multiple devices and ask for help from trusted contacts.
 
-<p>
+<p align="center">
  <img src="https://github.com/dakshgodara2001/Find-My-Phone/blob/main/images/Screenshot_20230204_111648.png" width="260" style="margin: 0 20px;">
  <img src="https://github.com/dakshgodara2001/Find-My-Phone/blob/main/images/Screenshot_20230204_111723.png" width="260" style="margin: 0 20px;">
  <img src="https://github.com/dakshgodara2001/Find-My-Phone/blob/main/images/Screenshot_20230204_113930.png" width="260" style="margin: 0 20px;">
