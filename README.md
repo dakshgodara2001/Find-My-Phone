@@ -10,6 +10,7 @@ The app allows you to track multiple devices and ask for help from trusted conta
  <img src="https://github.com/dakshgodara2001/Find-My-Phone/blob/main/images/Screenshot_20230204_114943.png" width="260" style="margin: 0 20px;">
 </p>
 
+
 ## Features
 - Track unlimited number of devices
 - Add unlimited trackers, who can find your phone
